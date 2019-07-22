@@ -20,6 +20,8 @@
 
 5 - **Uncomment** all lines in the following files:
 
+(if you choose this option, COMMENT the file `UserControllerDevelopment.java` to avoid conflicts)
+
 Java folder[-]
 
     - api/UserControllerProduction.java
