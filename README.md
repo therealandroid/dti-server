@@ -1,4 +1,4 @@
-Running the server:
+## Running the server:
 
 ## Option 1 - Setup with static response
 
