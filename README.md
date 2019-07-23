@@ -60,6 +60,19 @@ pom.xml file
 
 6 - Run application
 
+7 - Login Credentials
 
+The only way to register and log in is using the following credentials:
+
+`username`: `exemplo`
+
+`password`: `exemplo`
+
+If you want to create real account and real credentials just follow the step 2.
+
+### TODO
+
+- Create prod and dev envioronments
+- Create tests
 
 
