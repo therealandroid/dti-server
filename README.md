@@ -60,7 +60,7 @@ pom.xml file
 
 6 - Run application
 
-7 - Login Credentials
+### Login Credentials
 
 The only way to register and log in is using the following credentials:
 
@@ -68,7 +68,7 @@ The only way to register and log in is using the following credentials:
 
 `password`: `exemplo`
 
-If you want to create real account and real credentials just follow the step 2.
+If you want to create real account and real credentials just follow the *Option 2.
 
 ### TODO
 
