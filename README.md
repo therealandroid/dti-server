@@ -1,3 +1,12 @@
+## Stack
+
+- Java
+- Spring boot
+- Hibernate 
+- JPA 
+- Mysql
+- Rest
+
 ## Running the server:
 
 ## Option 1 - Setup with static response
